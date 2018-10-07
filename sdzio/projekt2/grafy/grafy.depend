@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1528084339 source:d:\studia\sdzio\projekt2\grafy\graf.cpp
+	"stdafx.h"
+	"Graf.h"
+	"Krawedz.h"
+	"ZbioryZlaczone.h"
+	"ElementListy.h"
+	"DrzewoSpinajace.h"
+	"Stos.h"
+	<windows.h>
+	<algorithm>
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<queue>
+	<fstream>
+	<stdint.h>
+	<limits>
+
+1527970162 source:d:\studia\sdzio\projekt2\grafy\main.cpp
+
+1527987530 d:\studia\sdzio\projekt2\grafy\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1527987551 d:\studia\sdzio\projekt2\grafy\targetver.h
+
+1527987494 d:\studia\sdzio\projekt2\grafy\graf.h
+	"DrzewoSpinajace.h"
+	"ElementListy.h"
+	"Krawedz.h"
+
+1527987474 d:\studia\sdzio\projekt2\grafy\drzewospinajace.h
+	"DrzewoSpinajace.h"
+	"ElementListy.h"
+	"Krawedz.h"
+
+1527987485 d:\studia\sdzio\projekt2\grafy\elementlisty.h
+
+1527987515 d:\studia\sdzio\projekt2\grafy\krawedz.h
+
+1527987568 d:\studia\sdzio\projekt2\grafy\zbioryzlaczone.h
+	"Krawedz.h"
+
+1527987541 d:\studia\sdzio\projekt2\grafy\stos.h
+	"ElementListy.h"
+
+1528084339 source:d:\studia\sdzio\projekt2\grafy\drzewospinajace.cpp
+	"DrzewoSpinajace.h"
+	"ElementListy.h"
+	"Krawedz.h"
+	<cstdlib>
+	<iostream>
+
+1527987480 source:d:\studia\sdzio\projekt2\grafy\elementlisty.cpp
+	"stdafx.h"
+	"ElementListy.h"
+
+1527987509 source:d:\studia\sdzio\projekt2\grafy\krawedz.cpp
+	"stdafx.h"
+	"Krawedz.h"
+
+1518070780 source:d:\studia\sdzio\projekt2\grafy\stdafx.cpp
+	"stdafx.h"
+
+1527987536 source:d:\studia\sdzio\projekt2\grafy\stos.cpp
+	"stdafx.h"
+	"Stos.h"
+
+1528084339 source:d:\studia\sdzio\projekt2\grafy\zbioryzlaczone.cpp
+	"stdafx.h"
+	"ZbioryZlaczone.h"
+	"Krawedz.h"
+
+1528084407 source:d:\studia\sdzio\projekt2\grafy\sdizov2.cpp
+	"stdafx.h"
+	"DrzewoSpinajace.h"
+	"ElementListy.h"
+	"Krawedz.h"
+	"Graf.h"
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<stdio.h>
+	<iostream>
+	<climits>
+	<cmath>
+

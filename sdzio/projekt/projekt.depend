@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1523875001 source:d:\studia\sdzio\projekt\main.cpp
+	<iostream>
+	"lista.h"
+	"elementlisty.h"
+	"tablica.h"
+	"kopiec.h"
+	<math.h>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+
+1523874583 source:d:\studia\sdzio\projekt\lista.cpp
+	"lista.h"
+
+1522353189 source:d:\studia\sdzio\projekt\elementlisty.cpp
+	"elementlisty.h"
+	"lista.h"
+
+1522456290 d:\studia\sdzio\projekt\lista.h
+	<iostream>
+	"elementlisty.h"
+
+1522354064 d:\studia\sdzio\projekt\elementlisty.h
+	<iostream>
+
+1522350615 d:\studia\sdzio\projekt\struktura.h
+	<iostream>
+	"lista.h"
+	"elementlisty.h"
+	"struktura.h"
+
+1522352566 d:\studia\sdzio\projekt\elementlisty.cpp
+	"elementlisty.h"
+	"lista.h"
+
+1522412872 d:\studia\sdzio\projekt\tablica.h
+	<iostream>
+
+1523220791 source:d:\studia\sdzio\projekt\tablica.cpp
+	"tablica.h"
+	<iostream>
+
+1523890115 source:d:\studia\sdzio\projekt\kopiec.cpp
+	"kopiec.h"
+	<math.h>
+
+1523130283 d:\studia\sdzio\projekt\kopiec.h
+	<iostream>
+

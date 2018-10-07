@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="grafy" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/grafy" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/grafy" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="DrzewoSpinajace.cpp" />
+		<Unit filename="DrzewoSpinajace.h" />
+		<Unit filename="ElementListy.cpp" />
+		<Unit filename="ElementListy.h" />
+		<Unit filename="Graf.cpp" />
+		<Unit filename="Graf.h" />
+		<Unit filename="Krawedz.cpp" />
+		<Unit filename="Krawedz.h" />
+		<Unit filename="Sdizov2.cpp" />
+		<Unit filename="Stos.cpp" />
+		<Unit filename="Stos.h" />
+		<Unit filename="ZbioryZlaczone.cpp" />
+		<Unit filename="ZbioryZlaczone.h" />
+		<Unit filename="stdafx.cpp" />
+		<Unit filename="stdafx.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
